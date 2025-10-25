@@ -42,7 +42,7 @@ export function Pricing() {
                 </li>
                 <li className="flex items-start">
                   <span className="mr-4 text-[#CBD5E1]">—</span>
-                  <span>週1回の個別面談(30分)</span>
+                  <span>初回の個別面談</span>
                 </li>
                 <li className="flex items-start">
                   <span className="mr-4 text-[#CBD5E1]">—</span>
