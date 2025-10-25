@@ -30,9 +30,6 @@ export function Footer() {
             <a href="/terms" className="hover:text-[#0B6DFF] transition-colors">
               利用規約
             </a>
-            <a href="/contact" className="hover:text-[#0B6DFF] transition-colors">
-              お問い合わせ
-            </a>
           </div>
           <p className="text-center text-[12px] text-[#616C7C] mt-6">© 2025 東京受験学苑. All rights reserved.</p>
         </div>
