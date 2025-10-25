@@ -29,7 +29,7 @@ export default function PrivacyPolicyPage() {
             <h2 className="font-semibold text-lg">3. 個人情報の安全管理</h2>
             <p className="text-sm text-[#475569] leading-relaxed">
               個人情報への不正アクセス、紛失、破壊、改ざんおよび漏洩を防ぐため、適切な安全対策を実施します。
-              個人情報の保管期間
+              
               当学苑は、以下の期間個人情報を保管します。
                ・基本的な登録情報(氏名、連絡先、学習履歴等): 退会後3年間
                ・決済関連情報: 税法に基づき7年間
