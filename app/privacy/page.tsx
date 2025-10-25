@@ -55,7 +55,7 @@ export default function PrivacyPolicyPage() {
           <h2 className="font-semibold text-lg">お問い合わせ先</h2>
           <p className="text-sm text-[#475569] leading-relaxed">
             メール: privacy@tokyojukengakuen.jp<br />
-            電話: 03-1234-5678（平日10:00〜18:00）
+            電話: 090-2824-2111（平日10:00〜18:00）
           </p>
         </div>
 
