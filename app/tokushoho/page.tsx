@@ -30,7 +30,7 @@ export default function TokushohoPage() {
           <div>
             <h2 className="font-semibold text-lg">連絡先</h2>
             <p className="text-sm text-[#475569]">
-              メール: support@tokyojukengakuen.jp<br />
+              メール: jishukatsu.online@gmail.com<br />
               電話: 090-2824-2111（平日10:00〜18:00）
             </p>
           </div>
