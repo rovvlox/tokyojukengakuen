@@ -32,15 +32,15 @@ export default function PrivacyPolicyPage() {
             </p>
           </div>
           <div>
-            <h2 className="font-semibold text-lg">4. クッキー（Cookie）について</h2>
+            <h2 className="font-semibold text-lg">4. クッキー（Cookie）等のトラッキング技術について</h2>
             <p className="text-sm text-[#475569] leading-relaxed">
-              ウェブサイトの利用状況を把握し、サービス改善に役立てるために Cookie を使用する場合があります。ブラウザの設定により Cookie の受け入れを拒否することも可能です。
+              ウェブサイトの利用状況を把握し、サービス改善に役立てるために Cookie等のトラッキング技術を使用する場合があります。ブラウザの設定により Cookie等のトラッキング技術の受け入れを拒否することも可能です。
             </p>
           </div>
           <div>
             <h2 className="font-semibold text-lg">5. 個人情報の開示・訂正・削除</h2>
             <p className="text-sm text-[#475569] leading-relaxed">
-              ご本人からの請求に応じて、保有する個人情報の開示・訂正・削除を適切に対応します。窓口は下記お問い合わせ先をご利用ください。
+              ご本人からの請求に応じて、保有する*個人情報 の開示・訂正・削除を適切に対応します。窓口は下記お問い合わせ先をご利用ください。(*氏名、連絡先、学習履歴、決済情報)
             </p>
           </div>
           <div>
