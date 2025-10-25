@@ -19,7 +19,7 @@ export default function TokushohoPage() {
           </div>
           <div>
             <h2 className="font-semibold text-lg">運営責任者</h2>
-            <p className="text-sm text-[#475569]">山田 太郎</p>
+            <p className="text-sm text-[#475569]">伊藤 翔馬</p>
           </div>
           <div>
             <h2 className="font-semibold text-lg">所在地</h2>
@@ -43,13 +43,13 @@ export default function TokushohoPage() {
           <div>
             <h2 className="font-semibold text-lg">お支払い方法</h2>
             <p className="text-sm text-[#475569]">
-              クレジットカード決済、銀行振込、各種オンライン決済サービスに対応しています。詳細はお申し込み時にご案内いたします。
+              クレジットカード決済、銀行振込、コンビニ決済に対応しています。詳細はお申し込み時にご案内いたします。
             </p>
           </div>
           <div>
             <h2 className="font-semibold text-lg">役務の提供時期</h2>
             <p className="text-sm text-[#475569]">
-              お申し込み後、初回ガイダンスの実施日をメールにてお知らせし、ガイダンス完了後すぐにサービスを提供します。
+              お申し込み後、初回ガイダンスの実施日をメールにてお知らせし、ガイダンス完了後7営業日以内にサービスを提供します。
             </p>
           </div>
           <div>
