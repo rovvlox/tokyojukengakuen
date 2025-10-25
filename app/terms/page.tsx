@@ -83,7 +83,7 @@ export default function TermsPage() {
 
         <div>
           <h2 className="font-semibold text-lg">附則</h2>
-          <p className="text-sm text-[#475569] leading-relaxed">2025年11月1日 施工</p>
+          <p className="text-sm text-[#475569] leading-relaxed">2025年11月1日 施行</p>
         </div>
 
         <div className="pt-8">
