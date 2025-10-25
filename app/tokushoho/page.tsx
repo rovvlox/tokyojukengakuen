@@ -24,14 +24,14 @@ export default function TokushohoPage() {
           <div>
             <h2 className="font-semibold text-lg">所在地</h2>
             <p className="text-sm text-[#475569]">
-              〒150-0001 東京都渋谷区神宮前1-1-1 東京受験学苑ビル 5F
+              〒150-0002 東京都渋谷区渋谷３丁目２７−１ 2F
             </p>
           </div>
           <div>
             <h2 className="font-semibold text-lg">連絡先</h2>
             <p className="text-sm text-[#475569]">
               メール: support@tokyojukengakuen.jp<br />
-              電話: 03-1234-5678（平日10:00〜18:00）
+              電話: 090-2824-2111（平日10:00〜18:00）
             </p>
           </div>
           <div>
